@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.mindorks.placeholderview.SwipePlaceHolderView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#FFA5D1C6"
+    android:layout_width="match_parent"
+    android:id="@+id/swipe"
+    android:layout_height="200dp">
+
+</com.mindorks.placeholderview.SwipePlaceHolderView>
